@@ -55,3 +55,9 @@ add a list of related/suggested content ordered by weight.
 the internet is full of fakenews and false messages which intend no good to the readers.
 
 however instead of deleting fakenews we could take the approach to clearly flag them by crowd. This will enable users to hook them up again anytime among all the proof related to it so they can send it to others. Away from single source of truth to crowd verified information.
+
+## Peer-Weight-Peer
+
+consider n peers interacted with a piece of content. The peers maybe connected with each other adding a modifier in. Any interaction will change the weight.
+
+TODO ... waaaaaaaaay more explanation required
