@@ -34,9 +34,11 @@ We all at least heard of someone beeing hacked sending messages around that look
 
 okay let's do it one by one.
 
-**missing out fellows**
+**missing out on fellows**
 
 one way we could solve this would be to give boosters into users hands. Think of it like mana in some rpg game as a resource that you can spent to "boost" content. A portion is consumed when used and it fills up again over time or by certain actions.
+
+![alt text](https://github.com/appinteractive/Social-Feed-Algorithms/blob/master/twtr.png "highlight the important")
 
 **self-censoring**
 
