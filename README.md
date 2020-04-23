@@ -40,6 +40,22 @@ one way we could solve this would be to give boosters into users hands. Think of
 
 ![alt text](https://github.com/appinteractive/Social-Feed-Algorithms/blob/master/twtr.png "highlight the important")
 
+1. the main feed
+2. suggestions for topics
+3. suggestions for peers
+
+the main feed itself can be sorted and changed using the algorithm building the feed. 
+
+Throwing in a booster for each user, the issue would remain because there's 200 peers that boosted their posts.
+
+A few considerations to fight this:
+
+- highlight important information and remove topic suggestions
+- while scrolling through a piece of content (or even scrolling newsfeed) change highlighted "suggestions" so they rotate when the user has not reacted to it after 3 times seeing it
+- peers are the blood of social networks, users however should decide by content if they want to follow or not
+
+> TODO: how could that post boosting work?
+
 **self-censoring**
 
 have related links and content at hand not somewhere on page 3854. "Follow the white rabbit principle".
@@ -63,3 +79,4 @@ however instead of deleting fakenews we could take the approach to clearly flag 
 consider n peers interacted with a piece of content. The peers maybe connected with each other adding a modifier in. Any interaction will change the weight.
 
 TODO ... waaaaaaaaay more explanation required
+
