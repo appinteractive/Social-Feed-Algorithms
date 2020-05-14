@@ -58,11 +58,35 @@ A few considerations to fight this:
 
 **self-censoring**
 
-have related links and content at hand not somewhere on page 3854. "Follow the white rabbit principle".
+Users tend to self-censor. This usually happens during the onboarding process of social networks these days. The user is presented with several topics/interests to pick from, they should follow some people and once they have a few they can get started.
+
+This is good and bad at the same time and it's also a common chicken-egg problem since you don't want to guess what the User may likes and with a bit of input you can feed some algo to get content suggested by Graph or alike.
+
+But now our User is stuck in an artificial bubble he does not even notice.
+
+*How to get out?* Stairs! Wait what? Yes you heard right, built some stairs or a lift! Okay enough jokes. Have you ever thought what facebook would look like without notifications (or let's call them distractions for that part)?
+
+So to burst the bubble we want to add something like this:
+
+> TODO: add image
 
 **needle in a haystack**
 
-> **idea:** remember these old a-z navigations? let's mix that up with a date or date range
+have related links and content at hand not somewhere on page 3854. "Follow the white rabbit principle". However the Network should not automagically link content and only do what it's job is, link the content by Topic. All other connections should be added by users.
+
+So as an example:
+User A posted some content and User B wants to complement it with a link to another Post or even some external information (wiki, youtube video or something).
+
+In the old we embedded the content and done. However these embeds get lost in a wall of paginated comments and maybe lost forever. Instead we decouple comments, discussion and information. 
+
+**COMMENT**
+
+**DISCUSSION**
+
+**INFORMATION**
+
+
+> **idea:** remember these old a-z navigations? let's mix that up with a date or date range because a letter is easier to remember than a clickbait title might be.
 
 **lose couples can still be friends**
 
