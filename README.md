@@ -117,9 +117,3 @@ however instead of deleting fakenews we could take the approach to clearly flag 
 
 ## Topic
 
-## Peer-Weight-Peer
-
-consider n peers interacted with a piece of content. The peers maybe connected with each other adding a modifier in. Any interaction will change the weight.
-
-TODO ... waaaaaaaaay more explanation required
-
