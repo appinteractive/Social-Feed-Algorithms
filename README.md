@@ -68,7 +68,7 @@ But now our User is stuck in an artificial bubble he does not even notice.
 
 So to burst the bubble we want to add something like this:
 
-![alt text](https://github.com/appinteractive/Social-Feed-Algorithms/blob/master/filters.png "burst bubbles")
+![alt text](https://github.com/appinteractive/Social-Feed-Algorithms/blob/master/filters.PNG "burst bubbles")
 
 **needle in a haystack**
 
