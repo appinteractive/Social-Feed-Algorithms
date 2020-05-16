@@ -30,3 +30,9 @@ Synchronize with others when connected uploading published content and downloadi
 ## no data collection
 
 We promise that absolutely no personal data is collected on the network, **ever**
+
+Users can do a lot on social networks but everything is considered content that could be shared if the user wants to.
+
+## content
+
+A piece of content also known as "post" is a collection of texts, images, videos. It has meta data like timestamps, author and it has a title and topic assigned.
