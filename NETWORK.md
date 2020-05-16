@@ -2,9 +2,9 @@
 
 The network assumes the following:
 
-- offline first
+- customizable
 - decentralized
-- customizable 
+- offline first
 - no data collection
 
 Users can deploy their "own" network and connect to others.
