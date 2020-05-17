@@ -43,5 +43,11 @@ When a user created a piece of content he can either save it privately for himse
 
 ### lists
 
-Lists are everywhere in our daily lives. You can create lists as sole content or attach a list to a piece of content. List items can be voted if allowed so a list can act as a poll and they can be opened to other nodes for complementary. Clicking an item on a List will get you more information about that list item. A list item is a piece of content which can contain comments, metadata or even discussions.
+Lists are everywhere in our daily lifes. You can create lists as sole content or attach a list to a piece of content. List items can be voted if allowed so a list can act as a poll and they can be opened to other users for complementary. Clicking an item on a List will get you more information about that list item. A list item is a piece of content which can contain comments, metadata or even discussions.
+
+### moderation and blocking
+
+All content is moderated by everyone if they wish to. There's no blocking function since there are no bubbles users intend to collaborate on the platform instead of fighting each other.
+You connect to another node and you'll get the public content.
+Don't like some of it? Skip it or argue properly within the given topic.
 
